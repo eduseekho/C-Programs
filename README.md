@@ -15,6 +15,14 @@ This repository contains various C programs covering different concepts, includi
 
 Feel free to explore the programs and use them for learning purposes. Contributions are also welcome!
 
+## Programs
+
+### 1. Finding the Largest Number Among Three Numbers in C
+
+**Description:** This program demonstrates how to find the largest number among three numbers in C.
+
+**Tutorial:** [C Program to Find Largest of Three Numbers](https://eduseekho.com/c-program-to-find-largest-of-three-numbers/)
+
 ## Social Media
 
 Connect with EduSeekho on social media for more programming tips, updates, and discussions:
