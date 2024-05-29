@@ -23,6 +23,18 @@ Feel free to explore the programs and use them for learning purposes. Contributi
 
 **Tutorial:** [C Program to Find Largest of Three Numbers](https://eduseekho.com/c-program-to-find-largest-of-three-numbers/)
 
+### 2. C Program to Calculate Simple Interest and Compound Interest
+
+**Description:** This program demonstrates how to calculate both simple interest and compound interest in C.
+
+**Tutorial:** [C Program to Calculate Simple Interest and Compound Interest](https://eduseekho.com/c-program-to-calculate-simple-interest-and-compound-interest/)
+
+### 3. C Program to Swap Two Numbers Using Pointers 
+
+**Description:** This program demonstrates how to swap two numbers using pointers in C.
+
+**Tutorial:** [C Program to Swap Two Numbers Using Pointers](https://eduseekho.com/c-program-to-swap-two-numbers-using-pointers/)
+
 ## Social Media
 
 Connect with EduSeekho on social media for more programming tips, updates, and discussions:
